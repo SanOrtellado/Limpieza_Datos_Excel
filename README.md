@@ -1,9 +1,9 @@
 
-### Resultados Según la Visualización
+### Base de datos en ExcelResultados Según la Visualización
 
 ![image](https://github.com/user-attachments/assets/38875be4-0139-4df5-b78c-c0ad86c068f2)
 
-### Base de datos en Excel
+### Resultados Según la Visualización
 
 ![image](https://github.com/user-attachments/assets/d843d500-c65e-4437-a718-21485b562c5f)
 
