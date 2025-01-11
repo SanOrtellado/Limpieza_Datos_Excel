@@ -5,7 +5,8 @@
 
 ### Resultados Según la Visualización
 
-![image](https://github.com/user-attachments/assets/d843d500-c65e-4437-a718-21485b562c5f)
+![image](https://github.com/user-attachments/assets/fc823d65-dd0f-4929-9d1b-a85a07b3e48f)
+
 
 
 ### Reporte: La Importancia de la Limpieza de Datos y su Aplicación
