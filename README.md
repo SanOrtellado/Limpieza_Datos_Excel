@@ -5,7 +5,7 @@
 
 ### Resultados Según la Visualización
 
-![image](https://github.com/user-attachments/assets/fc823d65-dd0f-4929-9d1b-a85a07b3e48f)
+![image](https://github.com/user-attachments/assets/1830a62e-4647-40a7-84e7-7f43be30ba4d)
 
 
 
